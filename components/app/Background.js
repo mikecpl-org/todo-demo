@@ -4,7 +4,6 @@ import colors from 'tailwindcss/colors';
 
 const Background = () => {
   // TODO handle this
-  // TODO handle this
 
   return (
     <LinearGradient
