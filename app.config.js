@@ -1,7 +1,6 @@
 import 'dotenv/config';
 
 // TODO teszt todo1
-// TODO teszt todo3
 // TODO teszt todo4
 // TODO teszt todo5
 // TODO teszt todo8
