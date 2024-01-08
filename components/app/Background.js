@@ -3,6 +3,8 @@ import { LinearGradient } from 'expo-linear-gradient';
 import colors from 'tailwindcss/colors';
 
 const Background = () => {
+  // TODO handle this
+
   return (
     <LinearGradient
       colors={[colors.slate[800], colors.slate[800], colors.slate[900]]}
