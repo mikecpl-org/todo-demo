@@ -10,6 +10,7 @@ import 'dotenv/config';
 // TODO teszt todo17
 // TODO teszt todo18
 // TODO teszt todo19
+// TODO teszt todo20
 
 export default ({ config }) => {
   return {
