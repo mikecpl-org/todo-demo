@@ -16,6 +16,8 @@ export default function App() {
     return <Loader />;
   }
 
+  // TODO finish this
+
   return (
     <NavigationContainer>
       <StatusBar style="light" />
